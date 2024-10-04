@@ -2,4 +2,4 @@
 
 Repositorio destinado a estudos.
 
-[![My Skills](https://skillicons.dev/icons?i=js)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js, nodejs)](https://skillicons.dev)
